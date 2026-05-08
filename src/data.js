@@ -1,0 +1,39 @@
+export const projects = [
+  {
+    icon: '🛒',
+    title: 'E-Commerce Website',
+    desc: 'React app with authentication, product management, cart and checkout flow.',
+    tags: ['React', 'JavaScript', 'CSS'],
+    link: 'https://github.com/Hayam-Maklad/e-commerce.git',
+  },
+  {
+    icon: '🍽️',
+    title: 'Recipe Website',
+    desc: 'Modern recipe site with responsive layout, search, and clean UI design.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    link: 'https://github.com/Hayam-Maklad/Recipe-website.git',
+  },
+  {
+    icon: '✅',
+    title: 'To Do List',
+    desc: 'Productivity app with smooth animations, filters, and local storage.',
+    tags: ['JavaScript', 'CSS'],
+    link: 'https://github.com/Hayam-Maklad/ToDoList.git',
+  },
+  
+]
+
+export const skills = [
+  { name: 'HTML5',      pct: 100, icon: 'fab fa-html5' },
+  { name: 'CSS3',       pct: 90,  icon: 'fab fa-css3-alt' },
+  { name: 'JavaScript', pct: 85,  icon: 'fab fa-js' },
+  { name: 'Bootstrap',  pct: 95,  icon: 'fab fa-bootstrap' },
+  { name: 'ES6+',       pct: 80,  icon: 'fab fa-js-square' },
+  { name: 'React',      pct: 70,  icon: 'fab fa-react' },
+]
+
+export const socials = [
+  { icon: 'fab fa-github',   label: 'GitHub',   href: 'https://github.com/Hayam-Maklad' },
+  { icon: 'fab fa-linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/in/hayam-mostafa-a617092a8' },
+  { icon: 'fas fa-envelope', label: 'hiammostafa545@gmail.com', href: 'mailto:hiammostafa545@gmail.com' },
+]
