@@ -6,23 +6,16 @@ export const projects = [
     link: 'https://github.com/Evenzaa/Event-Management-System.git',
   },
   {
-    title: 'Recipe Website',
-    desc: 'Modern recipe site with responsive layout, search, and clean UI design.',
+    title: 'Tab5a',
+    desc: 'A simple and interactive recipe website built with React, featuring recipe search, favorites, and recipe management.',
     tags: ['HTML', 'CSS', 'JavaScript','ReactJs'],
-    link: 'https://github.com/Hayam-Maklad/Recipe-website.git',
+    link: 'https://github.com/Hayam-Maklad/Tab5a.git',
   },
   {
     title: 'Yomak',
-    desc: 'Productivity app with smooth animations, filters, and local storage.',
+    desc: 'A React-based task manager for organizing daily to-dos with simple task management features.',
     tags: ['ReactJs', 'JavaScript', 'CSS'],
     link: 'https://github.com/Hayam-Maklad/Yomak.git',
-  },
- 
-   {
-    title: 'Calm corner',
-    desc: 'A peaceful space for relaxation and mindfulness.',
-    tags: ['HTML', 'CSS'],
-    link: 'https://github.com/Hayam-Maklad/calm-corner-template.git',
   },
   
 ]
