@@ -1,35 +1,41 @@
 export const projects = [
   {
-    icon: '🛒',
-    title: 'E-Commerce Website',
-    desc: 'React app with authentication, product management, cart and checkout flow.',
-    tags: ['React', 'JavaScript', 'CSS'],
-    link: 'https://github.com/Hayam-Maklad/e-commerce.git',
+    title: 'Evenza',
+    desc: 'Event Management system with user authentication, event creation, and RSVP functionality.',
+    tags: ['Reactjs', 'Nodejs', 'MongoDB'],
+    link: 'https://github.com/Evenzaa/Event-Management-System.git',
   },
   {
-    icon: '🍽️',
     title: 'Recipe Website',
     desc: 'Modern recipe site with responsive layout, search, and clean UI design.',
     tags: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://github.com/Hayam-Maklad/Recipe-website.git',
   },
   {
-    icon: '✅',
     title: 'To Do List',
     desc: 'Productivity app with smooth animations, filters, and local storage.',
     tags: ['JavaScript', 'CSS'],
     link: 'https://github.com/Hayam-Maklad/ToDoList.git',
   },
+ 
+   {
+    title: 'E-Commerce Website',
+    desc: 'React app with authentication, product management, cart and checkout flow.',
+    tags: ['React', 'JavaScript', 'CSS'],
+    link: 'https://github.com/Hayam-Maklad/e-commerce.git',
+  },
   
 ]
 
 export const skills = [
-  { name: 'HTML5',      pct: 100, icon: 'fab fa-html5' },
-  { name: 'CSS3',       pct: 90,  icon: 'fab fa-css3-alt' },
+  { name: 'HTML',      pct: 100, icon: 'fab fa-html5' },
+  { name: 'CSS',       pct: 90,  icon: 'fab fa-css3-alt' },
   { name: 'JavaScript', pct: 85,  icon: 'fab fa-js' },
   { name: 'Bootstrap',  pct: 95,  icon: 'fab fa-bootstrap' },
   { name: 'ES6+',       pct: 80,  icon: 'fab fa-js-square' },
-  { name: 'React',      pct: 70,  icon: 'fab fa-react' },
+  { name: 'ReactJs',      pct: 70,  icon: 'fab fa-react' },
+  { name: 'NodeJs',      pct: 65,  icon: 'fab fa-node-js' },
+  { name: 'MongoDB',      pct: 60,  icon: 'fab fa-mongodb' },
 ]
 
 export const socials = [
