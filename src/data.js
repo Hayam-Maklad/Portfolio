@@ -8,21 +8,21 @@ export const projects = [
   {
     title: 'Recipe Website',
     desc: 'Modern recipe site with responsive layout, search, and clean UI design.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS', 'JavaScript','ReactJs'],
     link: 'https://github.com/Hayam-Maklad/Recipe-website.git',
   },
   {
     title: 'To Do List',
     desc: 'Productivity app with smooth animations, filters, and local storage.',
-    tags: ['JavaScript', 'CSS'],
+    tags: ['ReactJs', 'JavaScript', 'CSS'],
     link: 'https://github.com/Hayam-Maklad/ToDoList.git',
   },
  
    {
-    title: 'E-Commerce Website',
-    desc: 'React app with authentication, product management, cart and checkout flow.',
-    tags: ['React', 'JavaScript', 'CSS'],
-    link: 'https://github.com/Hayam-Maklad/e-commerce.git',
+    title: 'Calm corner',
+    desc: 'A peaceful space for relaxation and mindfulness.',
+    tags: ['HTML', 'CSS'],
+    link: 'https://github.com/Hayam-Maklad/calm-corner-template.git',
   },
   
 ]
