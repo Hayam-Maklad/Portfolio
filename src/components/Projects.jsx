@@ -30,8 +30,7 @@ export default function Projects({ dark }) {
             <div key={i} className="card-lift surface"
               style={{ borderRadius: 18, padding: 24, display: 'flex', flexDirection: 'column', gap: 12, position: 'relative', overflow: 'hidden' }}>
               <div style={{ position: 'absolute', top: 0, left: 0, right: 0, height: 2, background: 'var(--grad)' }} />
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-                <div style={{ width: 46, height: 46, borderRadius: 12, background: dark ? 'rgba(16,170,248,0.12)' : 'rgba(16,170,248,0.10)', border: '1px solid var(--border)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 20 }}>{p.icon}</div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}> 
                 <span style={{ fontFamily: "'Playfair Display',serif", fontSize: 36, fontWeight: 900, color: dark ? 'rgba(16,170,248,0.08)' : 'rgba(16,170,248,0.1)', lineHeight: 1 }}>0{i + 1}</span>
               </div>
               <h3 style={{ fontWeight: 700, fontSize: 16, color: dark ? 'var(--text-dark)' : 'var(--text)' }}>{p.title}</h3>
