@@ -12,10 +12,10 @@ export const projects = [
     link: 'https://github.com/Hayam-Maklad/Recipe-website.git',
   },
   {
-    title: 'To Do List',
+    title: 'Yomak',
     desc: 'Productivity app with smooth animations, filters, and local storage.',
     tags: ['ReactJs', 'JavaScript', 'CSS'],
-    link: 'https://github.com/Hayam-Maklad/ToDoList.git',
+    link: 'https://github.com/Hayam-Maklad/Yomak.git',
   },
  
    {
